@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-traum-wird-wahr/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Ein Traum wird wahr](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-traum-wird-wahr/) |
+| **Get License** | [License this song: Ein Traum wird wahr](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-traum-wird-wahr/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a8ba0a0f4ca6efbb8896859fa2b8cc63be4be0a0b32dbe16280c6272816c029d` |
 | **Timestamp** | June 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
