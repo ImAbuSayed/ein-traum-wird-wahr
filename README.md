@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-traum-wird-wahr/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Ein Traum wird wahr](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-traum-wird-wahr/) |
+| **Get License** | [Official Music Licensing for Ein Traum wird wahr](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-traum-wird-wahr/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ey, die Stadt ist dunkel, doch du leuchtest wie ein Diamant
+> Steig ein in den Rover, Baby, fahr'n ans Ende von dem Land
+> Dein Parfüm in der Luft, der Vibe ist pure Energy
+> Heute Nacht bist du bei mir, wir schreiben uns're History
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
